@@ -1,0 +1,62 @@
+c:\users\technothor\source\repos\PongGame\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+c:\users\technothor\source\repos\PongGame\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+c:\users\technothor\source\repos\PongGame\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+c:\users\technothor\source\repos\PongGame\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+c:\users\technothor\source\repos\PongGame\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+c:\users\technothor\source\repos\PongGame\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.Cache
+c:\users\technothor\source\repos\PongGame\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+c:\users\technothor\source\repos\PongGame\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+c:\users\technothor\source\repos\PongGame\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+c:\users\technothor\source\repos\PongGame\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojResolveAssemblyReference.cache
+C:\Users\TechnoThor\source\repos\PongGame másolata\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojResolveAssemblyReference.cache
+C:\Users\TechnoThor\source\repos\PongGame másolata\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\TechnoThor\source\repos\PongGame másolata\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.Cache
+C:\Users\TechnoThor\source\repos\PongGame másolata\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\TechnoThor\source\repos\PongGame másolata\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\TechnoThor\source\repos\PongGame másolata\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\TechnoThor\source\repos\PongGame másolata\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\TechnoThor\source\repos\PongGame másolata\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.hu-HU.resources
+C:\Users\TechnoThor\source\repos\PongGame másolata\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\TechnoThor\source\repos\PongGame másolata\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\TechnoThor\source\repos\PongGame másolata\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\TechnoThor\source\repos\PongGame másolata\WindowsFormsApp5\bin\Debug\hu-HU\WindowsFormsApp5.resources.dll
+C:\Users\TechnoThor\source\repos\PongGame másolata\WindowsFormsApp5\obj\Debug\hu-HU\WindowsFormsApp5.resources.dll
+C:\Users\TechnoThor\Desktop\PongGame\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\TechnoThor\Desktop\PongGame\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\TechnoThor\Desktop\PongGame\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\TechnoThor\Desktop\PongGame\WindowsFormsApp5\bin\Debug\hu-HU\WindowsFormsApp5.resources.dll
+C:\Users\TechnoThor\Desktop\PongGame\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojResolveAssemblyReference.cache
+C:\Users\TechnoThor\Desktop\PongGame\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\TechnoThor\Desktop\PongGame\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\TechnoThor\Desktop\PongGame\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.hu-HU.resources
+C:\Users\TechnoThor\Desktop\PongGame\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.Cache
+C:\Users\TechnoThor\Desktop\PongGame\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\TechnoThor\Desktop\PongGame\WindowsFormsApp5\obj\Debug\hu-HU\WindowsFormsApp5.resources.dll
+C:\Users\TechnoThor\Desktop\PongGame\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\TechnoThor\Desktop\PongGame\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\TechnoThor\Documents\GitHub\PongGameV3\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\TechnoThor\Documents\GitHub\PongGameV3\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\TechnoThor\Documents\GitHub\PongGameV3\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\TechnoThor\Documents\GitHub\PongGameV3\WindowsFormsApp5\bin\Debug\hu-HU\WindowsFormsApp5.resources.dll
+C:\Users\TechnoThor\Documents\GitHub\PongGameV3\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojResolveAssemblyReference.cache
+C:\Users\TechnoThor\Documents\GitHub\PongGameV3\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\TechnoThor\Documents\GitHub\PongGameV3\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\TechnoThor\Documents\GitHub\PongGameV3\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.hu-HU.resources
+C:\Users\TechnoThor\Documents\GitHub\PongGameV3\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.Cache
+C:\Users\TechnoThor\Documents\GitHub\PongGameV3\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\TechnoThor\Documents\GitHub\PongGameV3\WindowsFormsApp5\obj\Debug\hu-HU\WindowsFormsApp5.resources.dll
+C:\Users\TechnoThor\Documents\GitHub\PongGameV3\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\TechnoThor\Documents\GitHub\PongGameV3\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Dániel\Desktop\PongGameV3\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Dániel\Desktop\PongGameV3\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Dániel\Desktop\PongGameV3\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Dániel\Desktop\PongGameV3\WindowsFormsApp5\bin\Debug\hu-HU\WindowsFormsApp5.resources.dll
+C:\Users\Dániel\Desktop\PongGameV3\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojResolveAssemblyReference.cache
+C:\Users\Dániel\Desktop\PongGameV3\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\Dániel\Desktop\PongGameV3\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Dániel\Desktop\PongGameV3\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.hu-HU.resources
+C:\Users\Dániel\Desktop\PongGameV3\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.Cache
+C:\Users\Dániel\Desktop\PongGameV3\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Dániel\Desktop\PongGameV3\WindowsFormsApp5\obj\Debug\hu-HU\WindowsFormsApp5.resources.dll
+C:\Users\Dániel\Desktop\PongGameV3\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Dániel\Desktop\PongGameV3\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
