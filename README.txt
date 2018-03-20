@@ -1,29 +1,31 @@
 Pong Game
 
 
-Készítõ: Bicskei Dániel
+KÃ©szÃ­tÅ‘: Bicskei DÃ¡niel
 2017
 
 
 
-Néhány fontos adat:
+NÃ©hÃ¡ny fontos adat:
 
-A számitógépen, melyen a program készült a következõ szoftverek futottak:
+A szÃ¡mitÃ³gÃ©pen, melyen a program kÃ©szÃ¼lt a kÃ¶vetkezÅ‘ szoftverek futottak:
 
 	-os: 			WIN10 x64
 	-.NET version:		4.6.1
-	-forráskódszerkesztõ:	MICROSOFT VISUAL STUDIO 2017
+	-forrÃ¡skÃ³dszerkesztÅ‘:	MICROSOFT VISUAL STUDIO 2017
 
-1.Lépés
-	Töltsd le a fájlt. 
+1.LÃ©pÃ©s
+	TÃ¶ltsd le a fÃ¡jlt. 
 
-2.Lépés
+2.LÃ©pÃ©s
 	Csomagold ki a rar-t.
 
-3.Lépés
-	Indítás:  
-		-közvetlen indítás:  \PongGame\bin\Debug\PongGame.exe
+3.LÃ©pÃ©s
+	IndÃ­tÃ¡s:  
+		-kÃ¶zvetlen indÃ­tÃ¡s:  PongGame.exe     vagy        \PongGame\bin\Debug\PongGame.exe
 
-		-közvetett indítás:  Ha fel van telepitve a VISUAL STUDIO 2017, akkor csak a PongGame.sln-t
-							-szerkeszthetõ
-							-szabadon futtatható
+	        -SzerkesztÃ©s:  Ha fel van telepitve a VISUAL STUDIO 2017, akkor csak a PongGame.sln-t kell megnyitni
+		
+		
+MegjegyzÃ©s: Az alkalmazÃ¡s Windows Form App-kÃ©nt lett megÃ­rva.
+							
