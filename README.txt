@@ -23,9 +23,10 @@ A számitógépen, melyen a program készült a következő szoftverek futottak:
 3.Lépés
 	Indítás:  
 		-közvetlen indítás:  PongGame.exe     vagy        \PongGame\bin\Debug\PongGame.exe
+		-közvettet inditás:  VISUAL STUDIO 2017-vel a teljes project megnyitása (PongGame.sln), majd azon belül futtatás
 
-	        -Szerkesztés:  Ha fel van telepitve a VISUAL STUDIO 2017, akkor csak a PongGame.sln-t kell megnyitni
+	        -Szerkesztés:  VISUAL STUDIO 2017 használatával
 		
 		
-Megjegyzés: Az alkalmazás Windows Form App-ként lett megírva.
+Megjegyzés: Az alkalmazás Windows Form App-ként lett megírva. Az 1972-es Atari által készített "Pong" játék inspirált.
 							
